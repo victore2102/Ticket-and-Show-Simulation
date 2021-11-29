@@ -1,3 +1,6 @@
+// Victor Ekpenyong
+// October 2020
+
 #include <iostream>
 #include <iomanip>
 #include <cctype>
@@ -171,7 +174,7 @@ void sell_seat(char &d_request, char &s_request, int &n_request)
     }
 
 
-//main ticket selling procedure – gets/validates seat selection
+//main ticket selling procedure â€“ gets/validates seat selection
 void cashier()
     {
 
